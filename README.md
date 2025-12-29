@@ -1,21 +1,21 @@
 <div align="center">
 
 # Hi, I’m Somitra Gupta 👋  
-### Frontend • React • MERN (in progress)
+### Frontend Developer • React • Web Applications
 
-I build clean, functional web interfaces and enjoy turning ideas into real, usable products.  
-Currently focused on **React**, **API integration**, and moving toward **full-stack MERN** development.
+I build clean, responsive, and production-ready web interfaces.  
+Focused on writing maintainable code and delivering reliable user experiences.
 
 </div>
 
 ---
 
 ## 🧠 About Me
-- 🎓 Information Technology undergraduate  
-- 💻 Frontend-first developer with strong React fundamentals  
-- 🔌 Experience with REST APIs & real client websites  
-- 🚀 Actively preparing for **internships & real-world projects**  
-- 📍 India
+- 💻 Frontend Developer with strong React fundamentals  
+- 🧩 Experience building real-world web applications and utility tools  
+- 🔌 Hands-on with REST API integration and modern frontend workflows  
+- 🛠 Focused on code quality, scalability, and UI/UX best practices  
+- 📍 Based in India
 
 ---
 
@@ -23,54 +23,54 @@ Currently focused on **React**, **API integration**, and moving toward **full-st
 
 **Frontend**
 - React, JavaScript (ES6+)
-- HTML5, CSS3, Material UI
+- HTML5, CSS3
+- Material UI
 
-**Backend (Learning)**
+**Backend**
 - Node.js, Express
 - REST APIs
 
-**Tools**
+**Tools & Workflow**
 - Git & GitHub
 - Axios
 - VS Code
 
 ---
 
-## 📌 Featured Work
+## 📌 Selected Projects
 
 🔹 **Vishwanath Math Website**  
-Real website built and deployed for an organization  
-`React • TypeScript • Responsive UI`
+Production website developed for an organization  
+`React • TypeScript • Responsive Design`
 
 🔹 **GitHub User Data Fetch**  
-API-based app fetching and displaying GitHub user data  
-`React • Axios • REST API`
+Web application consuming the GitHub API  
+`React • Axios • API Integration`
 
 🔹 **QR Code Generator**  
-Utility web app for generating QR codes  
-`HTML • CSS • JavaScript`
+Utility-based frontend application  
+`JavaScript • HTML • CSS`
 
-👉 More projects available in my repositories.
-
----
-
-## 📈 What I’m Working On
-- Building advanced React projects
-- Learning backend & database integration
-- Writing cleaner, scalable code
-- Preparing for technical interviews
+Explore my repositories to see more projects and implementations.
 
 ---
 
-## 🤝 Let’s Connect
+## 🎯 Professional Focus
+- Building scalable and maintainable React applications  
+- Improving performance and component architecture  
+- Expanding full-stack development skills  
+- Delivering clean UI with practical functionality  
 
+---
+
+## 🤝 Connect
 - 🔗 GitHub: https://github.com/Somitraa  
-- 💼 LinkedIn: *(add your link here)*  
+- 💼 LinkedIn: (https://www.linkedin.com/in/somitra-gupta-775b86260/)  
 
 ---
 
 <div align="center">
-  
-⭐ *If you like my work, consider starring a repo!*  
+
+🚀 Building reliable software, one project at a time.
 
 </div>

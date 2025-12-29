@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I’m Somitra Gupta 👋  
-### Frontend Developer • React • Web Applications
+### MERN Stack Developer • React • Web Applications
 
 I build clean, responsive, and production-ready web interfaces.  
 Focused on writing maintainable code and delivering reliable user experiences.
@@ -11,7 +11,7 @@ Focused on writing maintainable code and delivering reliable user experiences.
 ---
 
 ## 🧠 About Me
-- 💻 Frontend Developer with strong React fundamentals  
+- 💻 MERN Stack Developer with strong React fundamentals  
 - 🧩 Experience building real-world web applications and utility tools  
 - 🔌 Hands-on with REST API integration and modern frontend workflows  
 - 🛠 Focused on code quality, scalability, and UI/UX best practices  

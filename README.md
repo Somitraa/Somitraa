@@ -57,7 +57,7 @@ Learning infrastructure as code (Terraform - if you plan to add)
 Improving cloud architecture and scalability
 Monitoring, logging, and performance optimization
 🤝 Connect
-🔗 GitHub: https://github.com/Somitraa
+🔗 GitHub: https://github.com/Somitraa  </br>
 💼 LinkedIn: https://www.linkedin.com/in/somitra-gupta-775b86260/
 <div align="center">
 

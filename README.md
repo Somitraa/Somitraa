@@ -55,8 +55,8 @@ JavaScript • HTML • CSS
 Automating build and deployment pipelines (CI/CD)
 Learning infrastructure as code (Terraform - if you plan to add)
 Improving cloud architecture and scalability
-Monitoring, logging, and performance optimization
-🤝 Connect
+Monitoring, logging, and performance optimization </br>
+🤝 Connect </br>
 🔗 GitHub: https://github.com/Somitraa  </br>
 💼 LinkedIn: https://www.linkedin.com/in/somitra-gupta-775b86260/
 <div align="center">

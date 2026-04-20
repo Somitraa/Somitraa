@@ -1,6 +1,6 @@
 <div align="center">
-Hi, I’m Somitra Gupta 👋
-DevOps Enthusiast • AWS • CI/CD • Cloud & Automation
+Hi, I’m Somitra Gupta 👋 </br>
+DevOps Enthusiast • AWS • CI/CD • Cloud & Automation </br>
 
 I build, automate, and deploy scalable applications with a focus on reliability, performance, and efficient delivery pipelines.
 

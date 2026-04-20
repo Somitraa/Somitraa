@@ -5,14 +5,14 @@ DevOps Enthusiast • AWS • CI/CD • Cloud & Automation
 I build, automate, and deploy scalable applications with a focus on reliability, performance, and efficient delivery pipelines.
 
 </div>
-🧠 About Me
-☁️ DevOps-focused engineer with hands-on experience in cloud and deployment workflows
-🔁 Strong understanding of CI/CD pipelines and automation practices
-🐳 Familiar with containerization and modern deployment strategies
-📦 Experience integrating frontend/backend apps with cloud services
-🛠 Focused on scalability, monitoring, and system reliability
-📍 Based in India
-🛠 Tech Stack
+🧠 About Me </br>
+☁️ DevOps-focused engineer with hands-on experience in cloud and deployment workflows </br>
+🔁 Strong understanding of CI/CD pipelines and automation practices </br>
+🐳 Familiar with containerization and modern deployment strategies </br>
+📦 Experience integrating frontend/backend apps with cloud services </br>
+🛠 Focused on scalability, monitoring, and system reliability </br>
+📍 Based in India </br>
+🛠 Tech Stack  
 
 Cloud & DevOps
 
@@ -52,9 +52,9 @@ JavaScript • HTML • CSS
 👉 Focus: Deployment, optimization, and reliability of applications
 
 🎯 Professional Focus
-Automating build and deployment pipelines (CI/CD)
-Learning infrastructure as code (Terraform - if you plan to add)
-Improving cloud architecture and scalability
+Automating build and deployment pipelines (CI/CD) </br>
+Learning infrastructure as code (Terraform - if you plan to add) </br>
+Improving cloud architecture and scalability </br>
 Monitoring, logging, and performance optimization </br>
 🤝 Connect </br>
 🔗 GitHub: https://github.com/Somitraa  </br>
